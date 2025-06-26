@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+/* Estilo para as imagens das postagens */
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Estilo para a sidebar */
+aside .card {
+    position: sticky;
+    top: 20px;
+}
